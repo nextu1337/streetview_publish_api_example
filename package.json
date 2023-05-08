@@ -1,0 +1,15 @@
+{
+  "name": "streetview_publish_api_example",
+  "version": "1.0.0",
+  "description": "Upload and publish photospheres to Google Street View again (after discontinuation of mobile app)",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "@nextu1337",
+  "license": "ISC",
+  "dependencies": {
+    "googleapis": "^118.0.0",
+    "node-fetch": "^2.6.1",
+    "streetview-publish-client-libraries-v1": "^1.0.0"
+  }
+}
