@@ -8,8 +8,11 @@
   "author": "@nextu1337",
   "license": "ISC",
   "dependencies": {
+    "google-auth-library": "^8.8.0",
     "googleapis": "^118.0.0",
     "node-fetch": "^2.6.1",
+    "open": "^6.4.0",
+    "server-destroy": "^1.0.1",
     "streetview-publish-client-libraries-v1": "^1.0.0"
   }
 }
