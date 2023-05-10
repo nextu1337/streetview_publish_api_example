@@ -15,6 +15,7 @@ npm install
 
 ## Service account:
 - change `credentials.json` to whatever Google gives you after creating service account (structure MUST stay the same)
+- `npm i googleapis streetview-publish-client-libraries-v1`
 - `node service_account.js ./photosphere.jpg`
 
 ## OAuth2
